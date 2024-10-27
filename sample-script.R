@@ -13,3 +13,5 @@ data <- read.csv('data.csv')
 
 # calculate summary statistics --------------------------------
 lapply(data, summary)
+
+# creating a comment in R to push to GitHub
